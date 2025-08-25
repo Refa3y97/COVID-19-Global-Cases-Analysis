@@ -15,7 +15,7 @@ The dashboard provides insights into trends, distribution, and regional comparis
 ## Files in Repository
 - `COVID Report.pbix` → Power BI report file.  
 - `COVID.txt` → Source dataset used.  
-- `covid_cases.png` → Dashboard screenshot.
+- `covid.png` → Dashboard screenshot.
 
 ---
 
@@ -34,7 +34,7 @@ The dashboard provides insights into trends, distribution, and regional comparis
 ---
 
 ## Dashboard Screenshot
-![COVID Cases](covid_cases.png)
+![COVID Cases](covid.png)
 
 ---
 
